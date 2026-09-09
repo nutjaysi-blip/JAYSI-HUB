@@ -144,5 +144,5 @@ end)
 -- ฟังก์ชันการทำงานของปุ่มรันสคริปต์
 RunBtn.MouseButton1Click:Connect(function()
     ScreenGui:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nutjaysi-blip/JAYSI-HUB/refs/heads/main/MM2"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nutjaysi-blip/JAYSI-HUB/refs/heads/main/jaysihub.lua"))()
 end)
